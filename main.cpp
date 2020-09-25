@@ -134,7 +134,7 @@ int main(int argc, char *argv[])
     cmdparser.addOption(outdir_opt);
     QCommandLineOption markupfilename_opt(QStringList() << "markupfilename", "Markup filename", "gt.txt", "gt.txt");
     cmdparser.addOption(markupfilename_opt);
-    QCommandLineOption samples_opt(QStringList()    << "samples" << "s", "Samples to generate", "samples", "2");
+    QCommandLineOption samples_opt(QStringList()    << "samples" << "s", "Samples to generate", "samples", "5");
     cmdparser.addOption(samples_opt);
     QCommandLineOption seed_opt(QStringList()       << "seed", "Seed value for random generator, current time if value == 0 ", "0", "0");
     cmdparser.addOption(seed_opt);
