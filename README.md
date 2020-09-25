@@ -17,8 +17,14 @@ It was designed as a console application, so to produce sample-pictures you shou
 ```bash
 textpictgen -t "phrase i want to render"
 ```
+in output directory (./ by default) you will find textpictgen/ subfolder with samples:
 
-this is what you can get:
+![sample](https://github.com/pi-null-mezon/textpictgen/blob/master/samples/s1.png)
+
+![sample](https://github.com/pi-null-mezon/textpictgen/blob/master/samples/s2.png)
+
+![sample](https://github.com/pi-null-mezon/textpictgen/blob/master/samples/s3.png)
+
 
 
 **Installation**
