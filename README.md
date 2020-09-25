@@ -29,7 +29,7 @@ in output directory (./ by default) you will find textpictgen/ subfolder with sa
 
 **Installation**
 
-Generator is based on [Qt](https://www.qt.io/), so to build 
+Generator is based on [Qt](https://www.qt.io/), so: 
 
 ```bash
 cd textpictgen
