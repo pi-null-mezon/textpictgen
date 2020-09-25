@@ -32,9 +32,7 @@ in output directory (./ by default) you will find textpictgen/ subfolder with sa
 Generator is based on [Qt](https://www.qt.io/), so: 
 
 ```bash
-cd textpictgen
-
-mkdir build && cd build qmake ../textpictgen.pro
+cd textpictgen && mkdir build && cd build qmake ../textpictgen.pro
 
 make && sudo make install
 ```
